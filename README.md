@@ -44,7 +44,7 @@
 
 ## 🌐 Social Links
 - **[GitHub](https://github.com/vaishnavipandey)**
-- **[LeetCode](https://leetcode.com/vaishnavipandey)**
+- **[LeetCode](https://leetcode.com/u/sk4ze/)**
 - **[Twitter](https://twitter.com/vaishnavipandey)**
 - **[LinkedIn](https://www.linkedin.com/in/vaishnavi-pandey)**
 - **[GeeksforGeeks](https://www.geeksforgeeks.org/user/vaishnavipandey)**
