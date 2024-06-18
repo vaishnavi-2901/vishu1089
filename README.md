@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vaishnavi-pandey)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/vaishnavipandey)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/vaishnavipandey)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange)](https://leetcode.com/vaishnavipandey)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange)](https://leetcode.com/u/sk4ze/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/vaishnavipandey)
 
 ---
