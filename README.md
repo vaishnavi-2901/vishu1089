@@ -54,5 +54,3 @@
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-pandey) or check out my work on [GitHub](https://github.com/vaishnavipandey)!
 
 
-![image](https://github.com/vishu1089/vishu1089/assets/36892963/8354c7e8-0c20-46af-a36c-9783ce215371)
-
