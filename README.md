@@ -2,7 +2,7 @@
 
 **Senior Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vaishnavi-pandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vaishnavi29)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/vaishnavipandey)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/vaishnavipandey)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange)](https://leetcode.com/u/sk4ze/)
@@ -46,7 +46,7 @@
 - **[GitHub](https://github.com/vaishnavipandey)**
 - **[LeetCode](https://leetcode.com/u/sk4ze/)**
 - **[Twitter](https://twitter.com/vaishnavipandey)**
-- **[LinkedIn](https://www.linkedin.com/in/vaishnavi-pandey)**
+- **[LinkedIn](https://www.linkedin.com/in/vaishnavi29)**
 - **[GeeksforGeeks](https://www.geeksforgeeks.org/user/vaishnavipandey)**
 
 ---
